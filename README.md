@@ -1,7 +1,9 @@
 Acelino da Silva Mendes Júnior - Portfólio
+
 Cientista de Dados com foco no SRE. Este portfólio apresenta projetos que demonstram minhas habilidades na construção de sistemas confiáveis, escaláveis e automatizados.
 
 Habilidades e Competências
+
 Observabilidade: Monitoramento com Prometheus, visualização com Grafana e alertas com Alertmanager.
 
 Automação: Desenvolvimento de scripts em Python para automação de infraestrutura, processos de deployment, ML, estatísticas.
@@ -21,6 +23,7 @@ Tecnologias: Prometheus, Grafana, Alertmanager, Docker, Python.
 Repositório: [Link para o repositório deste projeto]
 
 2. Análise de SLOs e SLIs de uma Jornada de Extrato Bancário.
+   
 Descrição: [Breve descrição do que o projeto faz e o que ele demonstra sobre suas habilidades].
 
 Tecnologias: Python e matplotlib.
